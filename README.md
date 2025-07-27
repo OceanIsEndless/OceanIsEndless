@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📝 Help write a [Scratch spec](https://github.com/OceanIsEndless/scratch-spec)!
+📝 Help me write a [Scratch spec](https://github.com/OceanIsEndless/scratch-spec)!
 
 * 🥔 I'm currently being a potato
 * 🥸 I'm pretending to be formal
