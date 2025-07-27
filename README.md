@@ -1,4 +1,4 @@
-## Hello! 👋
+## Have a great day! 👋
 
 📝 Help me write a [Scratch spec](https://github.com/OceanIsEndless/scratch-spec)!
 
